@@ -8,3 +8,4 @@ These are all the assignments I have done so far in my university and while doin
   [Volunteering, KPIs]
 
 - Python
+   [Revise: OOP, classes and functions]
